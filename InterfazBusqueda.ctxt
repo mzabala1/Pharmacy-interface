@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=main1
+comment0.target=InterfazBusqueda(InterfazFarmacia)
+comment1.params=a
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=java.lang.String\ getMedicamento()
+numComments=3

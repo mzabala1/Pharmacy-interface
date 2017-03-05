@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=principal
+comment0.target=PanelIngreso(InterfazLogin)
+comment1.params=
+comment1.target=java.lang.String\ getUsuario()
+comment2.params=
+comment2.target=java.lang.String\ getContrase\u00F1a()
+comment3.params=a
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4
